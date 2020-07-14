@@ -14,7 +14,7 @@ Our final presentation slides is located here: [slides](https://github.com/ilneh
 This repository only contains the localization part, which includes trilateration algorithm and Kalman filter. The following libraries are used:
 
 ## ROS
-We use ROS communicate with MATLAB/Simulink for simulation.
+We use ROS to communicate with MATLAB/Simulink for simulation.
 
 ## Eigen3
 Download and install instructions can be found at: http://eigen.tuxfamily.org.
